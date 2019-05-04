@@ -2,7 +2,7 @@
 
 This is a simple example to show you how Spring Integration works with Spring Boot.
 
-# Libraqries and Tools
+# Libraries and Tools
 * [Module] `Spring Boot`
 * [Module] `Spring Integration`
 * [Library for auto-generating getters, setters, constructors and others] `Lombok`
