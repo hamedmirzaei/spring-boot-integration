@@ -1,4 +1,4 @@
-# Spring Boot + Spting Integration
+# Spring Boot + Spring Integration
 
 This is a simple example to show you how Spring Integration works with Spring Boot.
 
