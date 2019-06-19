@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>spring.boot.integration</groupId>
-    <artifactId>spring_boot_integration</artifactId>
+    <artifactId>spring-boot-integration</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_boot_integration</name>
+    <name>spring-boot-integration</name>
     <description>Demo project for Spring Boot + Integration</description>
 
     <properties>
